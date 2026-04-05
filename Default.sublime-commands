@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Save Unsaved And Close All Tabs",
+        "command": "save_unsaved_and_close"
+    },
+    {
+        "caption": "Save Unsaved And Close Saved Tabs",
+        "command": "save_unsaved_and_close_saved_tabs"
+    }
+]
